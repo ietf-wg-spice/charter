@@ -20,6 +20,8 @@ The SPICE WG will coordinate with RATS, OAuth, JOSE, COSE, and SCITT working gro
 
 The SPICE WG will develop digital credential profiles that support various use cases. Requirements for proposed standards in the program of work will be established in coordination with the aforementioned working groups. The profiles developed by the SPICE WG will enable digital credentials to leverage existing IETF technologies.
 
+The SPICE WG will define a limited number of widely-applicable claims for credentials that extend beyond the set defined in core specifications that will facilitate deployments of SPICE use cases, including any encodings necessary to represent those claims in a JWT or CWT.
+
 Privacy by design, confidentiality, and consent will be considered, and implementation guidance will be given for each proposed standard in the program of work.
 
 Privacy and security considerations related to the use of confidential computing, remote attestation, trusted execution environments (TEE), and hardware security modules (HSM) on digital credentials will be developed in coordination with relevant IETF WGs (e.g., TEEP) and incorporate feedback from experts on the mailing list.
