@@ -22,6 +22,8 @@ The SPICE WG will develop digital credential profiles that support various use c
 
 The SPICE WG will define a limited number of widely-applicable claims for credentials that extend beyond the set defined in core specifications that will facilitate deployments of SPICE use cases, including any encodings necessary to represent those claims in a JWT or CWT.
 
+The SPICE WG will define a limited number of data structures useful for commerce and trade that will facilitate deployments of SPICE use cases.
+
 Privacy by design, confidentiality, and consent will be considered, and implementation guidance will be given for each proposed standard in the program of work.
 
 Privacy and security considerations related to the use of confidential computing, remote attestation, trusted execution environments (TEE), and hardware security modules (HSM) on digital credentials will be developed in coordination with relevant IETF WGs (e.g., TEEP) and incorporate feedback from experts on the mailing list.
